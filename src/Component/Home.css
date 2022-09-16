@@ -1,9 +1,10 @@
 .wrap{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
 .card{
-    background: pink;
+    background:#e74868;;
 }
